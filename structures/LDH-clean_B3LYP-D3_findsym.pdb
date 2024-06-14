@@ -1,0 +1,29 @@
+REMARK   1 File created by GaussView 6.0.16
+HETATM    1  H           0       0.000   0.000   7.693                       H
+HETATM    2  O           0       0.000   0.000   6.730                       O
+HETATM    3 Zn           0       0.000   0.000   0.000                      Zn
+HETATM    4  H           0       0.000   0.000   9.361                       H
+HETATM    5  H           0       1.576   0.910  13.378                       H
+HETATM    6  H           0       1.576   0.910  15.045                       H
+HETATM    7  H           0       0.000   1.820   2.008                       H
+HETATM    8  H           0       0.000   1.820   3.676                       H
+HETATM    9  O           0       0.000   0.000  10.324                       O
+HETATM   10  O           0       1.576   0.910  12.415                       O
+HETATM   11  O           0       1.576   0.910  16.008                       O
+HETATM   12  O           0       0.000   1.820   1.046                       O
+HETATM   13  O           0       0.000   1.820   4.639                       O
+HETATM   14 Zn           0       1.576   0.910   5.685                      Zn
+HETATM   15 Zn           0       0.000   1.820  11.369                      Zn
+END
+CONECT    1    2
+CONECT    2    1
+CONECT    4    9
+CONECT    5   10
+CONECT    6   11
+CONECT    7   12
+CONECT    8   13
+CONECT    9    4
+CONECT   10    5
+CONECT   11    6
+CONECT   12    7
+CONECT   13    8
